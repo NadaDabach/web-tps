@@ -1,6 +1,6 @@
-Part of Web Development - ISMIN
+Part of Web Development - ISMIN - 2022
 
-Course followed by students of Mines St Etienne, ISMIN - M2 Computer Science.
+Course followed by students of Mines St Etienne, ISMIN - M2 Computer Science
 
 [![jest](https://jestjs.io/img/jest-badge.svg)](https://github.com/facebook/jest)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
